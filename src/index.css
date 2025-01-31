@@ -304,3 +304,9 @@ main {
 .person p {
   color: var(--grey-500);
 }
+
+#title{
+  margin-bottom: 30px;
+}
+
+
